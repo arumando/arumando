@@ -53,6 +53,14 @@ Me gusta resolver problemas reales con código: **automatizar tareas repetitivas
 | [⚡ Contadores en FPGA](https://github.com/arumando/vhdl-contador-fpga) | Contadores 00–99 con displays de 7 segmentos en una FPGA Artix-7 | VHDL · Vivado |
 | [☕ Landing page de negocio](https://github.com/arumando/landing-page-negocio) | Plantilla responsive para negocios locales con formulario validado | HTML · CSS · JavaScript |
 
+**Proyectos académicos en Java**
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [🗄️ CRUD con MySQL](https://github.com/arumando/java-crud-mysql) | Alta, consulta, edición y baja de usuarios y materias con el patrón DAO | Java · MySQL · JDBC |
+| [🔤 Analizador léxico](https://github.com/arumando/analizador-lexico-jflex) | Reconoce los tokens de un código fuente e indica línea y columna; con interfaz gráfica (proyecto en equipo) | Java · JFlex · Swing |
+| [☕ POO y excepciones](https://github.com/arumando/java-poo-excepciones) | Biblioteca y renta de vehículos con herencia, y un catálogo de 15 excepciones con pruebas | Java |
+
 ---
 
 ## 🌎 Idiomas
